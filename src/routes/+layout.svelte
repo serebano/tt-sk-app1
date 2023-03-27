@@ -34,6 +34,7 @@
 </svelte:head>
 <div class="w-full h-full flex">
 	<div class="w-full mx-24 my-12">
+		<h1>tt-sk-app1</h1>
 		<ul>
 			<li>
 				<b class="badge">api</b>
